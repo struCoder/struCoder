@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **struCoder/struCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋 我是玉澈, 这是我这几年一直在使用的昵称或者花名。
+
+我目前主要使用的编程语言是`JavaScript`, `Golang`是我平时用的第二编程语言。我是一个唯心主义的互联网软件技术开发者, 我对一个优秀的开发者的定义是: 能写出优秀的开发文档以及函数注释。
+
+接下来10年，我看好教育行业，国内真真正正用心去做教育的公司很少，我自己眼界以及人脉也有限，但是我也会一直寻找突破口，为教育行业赋能。
+
+- 💬左边有我的邮箱联系方式
+- ⚡[Twitter](https://twitter.com/DavidKyky)
